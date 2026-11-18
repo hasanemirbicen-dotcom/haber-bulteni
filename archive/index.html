@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Arşiv – Günlük Bültenim</title><style>
+:root{--bg:#faf8f3;--card:#fff;--ink:#1d1d1f;--muted:#6b6b70;--line:#e4e0d6;--accent:#b3261e;
+--accent-soft:#fdecea;--link:#0b57d0;--alert-bg:#fff4d6;--alert-line:#e0a100;--chip:#efece4;--closed:#9a9a9a}
+@media (prefers-color-scheme:dark){:root{--bg:#121214;--card:#1c1c1f;--ink:#ececee;--muted:#a0a0a8;
+--line:#2e2e33;--accent:#ff6b5e;--accent-soft:#3a1d1b;--link:#8ab4f8;--alert-bg:#2b2410;--alert-line:#d4a017;
+--chip:#2a2a2e;--closed:#6c6c72}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Georgia,'Times New Roman',serif}
+a{color:var(--link)}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px 48px}
+header{text-align:center;border-bottom:3px double var(--ink);padding:28px 0 14px;margin-bottom:24px}
+header h1{font-size:clamp(2rem,6vw,3.2rem);margin:0;letter-spacing:.02em}
+header .meta{font-family:system-ui,sans-serif;color:var(--muted);font-size:.9rem;margin-top:6px}
+h2{font-size:1.5rem;border-bottom:1px solid var(--line);padding-bottom:6px;margin:36px 0 16px}
+.sans{font-family:system-ui,-apple-system,'Segoe UI',sans-serif}
+.alert{background:var(--alert-bg);border:2px solid var(--alert-line);border-left-width:8px;border-radius:10px;padding:16px 18px}
+.alert h2{margin-top:0;border:0;color:var(--ink)}
+.alert ul{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.alert li{background:var(--card);border-radius:8px;padding:12px 14px;border:1px solid var(--line)}
+.alert .when{font-weight:700;color:var(--accent);font-family:system-ui,sans-serif;font-size:.9rem}
+.alert .title{font-weight:700;font-size:1.08rem}
+.alert .why{font-size:.95rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.card h3{margin:4px 0 6px;font-size:1.08rem;line-height:1.35}
+.card p{margin:0 0 8px}
+.tag{display:inline-block;font:600 .72rem/1 system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;
+background:var(--chip);color:var(--muted);padding:4px 7px;border-radius:4px}
+.src{font:.85rem system-ui,sans-serif;color:var(--muted)}
+.kur{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:14px;font-family:system-ui,sans-serif}
+.kur div{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 14px}
+.kur b{font-size:1.2rem}
+.info{font:.88rem system-ui,sans-serif;color:var(--muted)}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.filters button{font:600 .9rem system-ui,sans-serif;border:1px solid var(--line);background:var(--card);color:var(--ink);
+padding:6px 14px;border-radius:999px;cursor:pointer}
+.filters button.on{background:var(--ink);color:var(--bg)}
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--card)}
+table{border-collapse:collapse;width:100%;font:.86rem/1.45 system-ui,sans-serif;min-width:980px}
+th,td{padding:9px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{background:var(--chip);position:sticky;top:0}
+tr.closed td{color:var(--closed)}
+.badge{display:inline-block;font:700 .7rem/1 system-ui,sans-serif;padding:4px 6px;border-radius:4px;margin-top:4px}
+.badge.soon{background:var(--accent);color:#fff}
+.badge.closed{background:var(--chip);color:var(--closed)}
+footer{margin-top:40px;text-align:center;font:.9rem system-ui,sans-serif;color:var(--muted)}
+ul.arch{list-style:none;padding:0}ul.arch li{padding:8px 0;border-bottom:1px solid var(--line)}
+</style></head>
+<body><div class="wrap"><header><h1>Arşiv</h1><div class="meta">Günlük Bültenim – tüm günler</div></header>
+<p><a href="../index.html">← Bugünün bülteni</a></p><ul class="arch"><li><a href="2026-11-19.html">19 Kasım 2026 Perşembe</a></li></ul></div></body></html>

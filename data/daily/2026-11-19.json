@@ -1,0 +1,152 @@
+{
+ "news": {
+  "items": [
+   {
+    "kategori": "Türkiye",
+    "baslik": "Erdoğan: Emekli aylıklarındaki iyileştirme yılbaşından önce",
+    "ozet": "Cumhurbaşkanı Erdoğan, AK Parti grup toplantısında 17 milyonu aşkın emekliyi kapsayacak, yaş ve prim gün sayısını esas alan düzenlemenin TBMM desteğiyle yılbaşından önce hayata geçirilmesini hedeflediklerini açıkladı. Artış oranı ve formül henüz açıklanmadı.",
+    "kaynak": "Cumhuriyet",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/emekli-ayliklarinda-duzenleme-geliyor-erdogan-iyilestirmenin-takvimini-duyurdu-2557240"
+   },
+   {
+    "kategori": "Türkiye",
+    "baslik": "Fon soruşturması: Eski BDDK Başkanı Kavcıoğlu için soruşturma izni istendi",
+    "ozet": "İstanbul Cumhuriyet Başsavcılığı, sermaye piyasalarındaki şüpheli işlemlere ilişkin fon soruşturması kapsamında eski BDDK Başkanı Şahap Kavcıoğlu için Hazine ve Maliye Bakanlığı'ndan soruşturma izni talep etti. Bakan Şimşek, Teftiş Kurulu'nu ön inceleme için görevlendirdi.",
+    "kaynak": "Bloomberg HT",
+    "url": "https://www.bloomberght.com/sahap-kavcioglu-icin-sorusturma-izni-talebi-3794972"
+   },
+   {
+    "kategori": "Türkiye",
+    "baslik": "Hayati Yazıcı'nın oğlu Mustafa Yazıcı ifadeye çağrıldı",
+    "ozet": "Fon soruşturmasında, AK Parti Genel Başkanvekili Hayati Yazıcı'nın oğlu ve Adil Varlık Yönetim AŞ yöneticisi Mustafa Yazıcı, şirkete TMSF tarafından kayyum atanmasının ardından ifadeye çağrıldı. Yaklaşık altı saat süren ifadenin ardından adli kontrol talebiyle hakimliğe sevk edildi.",
+    "kaynak": "NTV",
+    "url": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-mustafa-yazici-ifadeye-cagrildi-1751473"
+   },
+   {
+    "kategori": "Dünya",
+    "baslik": "İran, Kuveyt ve Bahreyn'deki ABD üslerini hedef aldı",
+    "ozet": "ABD'nin Hürmüz Boğazı'ndaki Keşm Adası'nda bir Devrim Muhafızları füze rampasını vurmasının ardından İran, Kuveyt'teki Ali Al Salem Hava Üssü ile Bahreyn'deki ABD tesislerine insansız hava aracı saldırıları düzenlediğini açıkladı. Suudi Arabistan saldırıları kınadı.",
+    "kaynak": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
+   },
+   {
+    "kategori": "Dünya",
+    "baslik": "Trump, Xi ve Putin ile üçlü zirve için Çin'de",
+    "ozet": "ABD Başkanı Trump, APEC zirvesi için Şenzen'e ulaştı ve Çin Devlet Başkanı Xi tarafından pistte karşılandı. Trump, Xi ve Putin'in 19 Kasım'da nükleer silahsızlanma, İran savaşı, ticaret ve Ukrayna'yı ele alacak ilk üçlü zirveyi yapması bekleniyor.",
+    "kaynak": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
+   },
+   {
+    "kategori": "Ekonomi",
+    "baslik": "Fed tutanakları: Neredeyse tüm üyeler yeni faiz artışı bekliyor",
+    "ozet": "Fed'in 27-28 Ekim toplantı tutanaklarına göre politika faizi yüzde 3,75-4,00'te sabit tutulurken, neredeyse tüm katılımcılar ilave faiz artışlarının muhtemelen uygun olacağını değerlendirdi. Tutanaklarda yapay zekâ yatırımlarına bağlı borçlanma da risk olarak öne çıktı.",
+    "kaynak": "France 24 (AFP)",
+    "url": "https://www.france24.com/en/live-news/20261118-almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely"
+   },
+   {
+    "kategori": "Ekonomi",
+    "baslik": "Borsa İstanbul günü yüzde 1,57 düşüşle kapattı",
+    "ozet": "BIST 100 endeksi günü yüzde 1,57 değer kaybıyla 11.477,41 puandan tamamladı; toplam işlem hacmi 97,7 milyar lira oldu. Bankacılık endeksi yüzde 2,54, holding endeksi yüzde 2,64 geriledi.",
+    "kaynak": "Anadolu Ajansı",
+    "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4129551"
+   },
+   {
+    "kategori": "Bilim & Teknoloji",
+    "baslik": "Voyager 1, Dünya'dan bir ışık günü uzaklığa ulaştı",
+    "ozet": "NASA'nın Voyager 1 sondası, 18 Kasım sabahı Dünya'dan bir ışık günü (yaklaşık 25,9 milyar km) uzaklığa ulaşan ilk insan yapımı araç oldu. Artık gönderilen bir komutun sondaya ulaşması tam 24 saat sürüyor.",
+    "kaynak": "CNN",
+    "url": "https://www.cnn.com/2026/11/18/science/voyager-1-light-day"
+   },
+   {
+    "kategori": "Bilim & Teknoloji",
+    "baslik": "Nvidia, Çin'e yapay zekâ çipi sevkiyatını durdurdu",
+    "ozet": "Nvidia'nın geçici CEO'su Colette Kress, şirketin lisanslı Hopper veri merkezi ürünlerini artık Çin'e göndermediğini ve dördüncü çeyrek beklentisinin Çin'den veri merkezi geliri içermediğini açıkladı. Şirket, çeyrekte Çin'e 2,4 milyar dolarlık bu ürünlerden satmıştı.",
+    "kaynak": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china"
+   }
+  ],
+  "kur": {
+   "usd_try": "50,4571",
+   "eur_try": "55,4600",
+   "tarih": "2026-11-18",
+   "kaynak": "Ekonomist (saat 09:26 itibarıyla satış fiyatı; alış: USD 50,4279, EUR 55,4065)",
+   "url": "https://www.ekonomist.com.tr/doviz/dolar-ve-euro-bugun-ne-kadar-18-kasim-2026-guncel-doviz-kurlari-81010"
+  }
+ },
+ "istanbul": {
+  "items": [
+   {
+    "tur": "Konser",
+    "baslik": "Isaiah Collier – Collier Plays Coltrane",
+    "aciklama": "Chicago'lu saksofoncu Isaiah Collier, John Coltrane'in müziğine odaklanan projesiyle Kadıköy'de sahne alıyor (18 yaş sınırı).",
+    "saat": "21:30",
+    "mekan": "Komünite, Kadıköy",
+    "ucret": "950 TL",
+    "url": "https://pass.paribu.com/en/muzik/isaiah-collier"
+   },
+   {
+    "tur": "Konser",
+    "baslik": "LGT Young Soloists",
+    "aciklama": "Dünyanın farklı ülkelerinden 14-25 yaş arası yaylı çalgı solistlerini bir araya getiren topluluk CRR'de konser veriyor.",
+    "saat": "20:00",
+    "mekan": "Cemal Reşit Rey Konser Salonu, Şişli",
+    "ucret": "",
+    "url": "https://tr.euronews.com/2026/10/30/tekfen-filarmoniden-gevendeye-crr-kasim-konserleri-aciklandi"
+   },
+   {
+    "tur": "Sergi",
+    "baslik": "Frank Bowling sergisi",
+    "aciklama": "Frank Bowling'in altmış yıllık pratiğini Francis Bacon ve Victor Willing'in resimleriyle buluşturan sergi 31 Ocak 2027'ye kadar Pera Müzesi'nde.",
+    "saat": "10:00-19:00",
+    "mekan": "Pera Müzesi, Beyoğlu",
+    "ucret": "",
+    "url": "https://tr.euronews.com/2026/08/31/frank-bowlingin-eserleri-ilk-kez-istanbulda-pera-muzesinde-yeni-sergi"
+   },
+   {
+    "tur": "Sergi",
+    "baslik": "Aynı Mavinin Altında (Beneath the Same Blue)",
+    "aciklama": "İstanbul Modern'in 120'den fazla sanatçının 240'ı aşkın eserini bir araya getiren 10. koleksiyon sergisi 8 Eylül 2026'dan beri açık.",
+    "saat": "",
+    "mekan": "İstanbul Modern, Karaköy",
+    "ucret": "",
+    "url": "https://www.istanbulmodern.org/en/exhibitions/beneath-the-same-blue"
+   },
+   {
+    "tur": "Ücretsiz",
+    "baslik": "Denizaşırı: Özer Kabaş ve Zamanları",
+    "aciklama": "Sanatçı, eğitimci ve yazar Özer Kabaş'ın 1960'lardan 1990'lara üretimini resim, sinema, tasarım ve arşiv belgeleriyle sunan sergi 14 Mart 2027'ye kadar ücretsiz gezilebiliyor.",
+    "saat": "",
+    "mekan": "Salt Beyoğlu, Beyoğlu",
+    "ucret": "Ücretsiz",
+    "url": "https://www.timeout.com/istanbul/tr/haberler/denizasiri-oezer-kabas-ve-zamanlari-salt-beyoglunda-ziyarete-acildi-091626"
+   },
+   {
+    "tur": "Sergi",
+    "baslik": "The Sky Was Candy",
+    "aciklama": "'Ev' ve 'yurt' kavramları üzerine kurulan karma sergi 27 Mart 2027'ye kadar Arter'de görülebilir.",
+    "saat": "",
+    "mekan": "Arter, Dolapdere / Beyoğlu",
+    "ucret": "",
+    "url": "https://www.cornucopia.net/events/the-sky-was-candy/"
+   },
+   {
+    "tur": "Kariyer",
+    "baslik": "Event Summit Türkiye 2026",
+    "aciklama": "Etkinlik, deneyim pazarlaması, MICE ve canlı eğlence sektörlerini 'ÖTE' temasıyla buluşturan zirvenin ilk günü Maslak'ta yapılıyor.",
+    "saat": "",
+    "mekan": "42 Venue, Maslak / Sarıyer",
+    "ucret": "",
+    "url": "https://www.eventsummit.tr/?lang=tr"
+   },
+   {
+    "tur": "Diğer",
+    "baslik": "Uluslararası İstanbul Hırdavat Fuarı",
+    "aciklama": "El aletleri, bağlantı elemanları, yapı ve iş güvenliği ürünlerini bir araya getiren hırdavat fuarı 18-21 Kasım tarihlerinde açık.",
+    "saat": "",
+    "mekan": "İstanbul Fuar Merkezi, Yeşilköy / Bakırköy",
+    "ucret": "",
+    "url": "https://www.expoassist.net/event/istanbul-hardware-fair"
+   }
+  ]
+ }
+}
