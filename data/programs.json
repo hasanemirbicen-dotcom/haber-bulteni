@@ -113,12 +113,12 @@
    "sehir": "Hannover",
    "kategori": "Geomatik",
    "dil": "Büyük ölçüde İngilizce",
-   "basvuru_donemi": "AB dışı: 15 Nisan – 31 Mayıs 2027 (WS 2027/28); SS için 15 Ekim – 30 Kasım. VPD için uni-assist'e son tarihten en az 8 hafta önce başvurun",
-   "son_tarih": "2027-05-31",
+   "basvuru_donemi": "AB dışı: SS 2027 için 30 Kasım 2026, WS 2027/28 için 31 Mayıs 2027 (DAAD); uni-assist VPD gerekli",
+   "son_tarih": "2026-11-30",
    "harc": "Öğrenim ücreti yok (Aşağı Saksonya); dönem katkı payı – tutar belirtilmemiş",
    "belgeler": "uni-assist VPD zorunlu, dil belgesi (puan belirtilmemiş), APS gerekmez",
    "url": "https://www.uni-hannover.de/en/studium/studienangebot/info/studiengang/detail/geodesy-and-geoinformatics/",
-   "son_kontrol": "2026-11-19"
+   "son_kontrol": "2026-11-20"
   },
   {
    "id": "tuberlin-geodesy-geoinformation",
@@ -158,12 +158,12 @@
    "sehir": "Münster",
    "kategori": "Geomatik",
    "dil": "İngilizce",
-   "basvuru_donemi": "Önceki döngülere göre AB dışı: WS için 31 Mayıs, SS için 30 Kasım (SS 2027 için 30 Kasım 2026 olması bekleniyor – 2027 tarihleri resmi olarak doğrulanamadı)",
-   "son_tarih": null,
+   "basvuru_donemi": "SS 2027 (Nisan başlangıç): AB dışı için resmi ifgi sayfasındaki örüntüye göre 30 Kasım 2026 (AB: 15 Ocak); WS 2027/28: AB dışı 31 Mayıs 2027. Kaydın açık olduğunu ifgi sayfasından teyit edin",
+   "son_tarih": "2026-11-30",
    "harc": "Öğrenim ücreti yok (NRW); başvuru ücretsiz; dönem katkı payı – tutar belirtilmemiş",
    "belgeler": "Geoinformatik veya eşdeğer lisans, İngilizce belgesi (üçüncü taraf: TOEFL 550 PBT veya eşdeğeri), ifgi çevrimiçi başvuru, APS gerekmez",
    "url": "https://ifgi.uni-muenster.de/masterapplication",
-   "son_kontrol": "2026-11-19"
+   "son_kontrol": "2026-11-20"
   },
   {
    "id": "hft-photogrammetry-geoinformatics",
@@ -248,12 +248,12 @@
    "sehir": "Wageningen",
    "kategori": "Geomatik",
    "dil": "İngilizce",
-   "basvuru_donemi": "Eylül 2027 için resmi tarih doğrulanamadı; WUR genel kuralı: AB dışı Studielink başvurusu 15 Nisan, belgeler 1 Mayıs (eski tarihli sayfa). Burs değerlendirmesi için eksiksiz başvuru 1 Aralık 2026'dan önce",
-   "son_tarih": null,
+   "basvuru_donemi": "Eylül 2027 başvuruları henüz açılmadı (şu an yalnızca Şubat 2027 için başvuru alınıyor). Burs (Excellence vb.) değerlendirmesi için eksiksiz başvuru 1 Aralık 2026'dan önce. Önceki döngü: AB dışı Studielink 15 Nisan",
+   "son_tarih": "2026-12-01",
    "harc": "AB dışı: 2026/27 için 21.900 €/yıl (StudyinNL); 2027/28 Belirtilmemiş - sayfayı kontrol edin",
    "belgeler": "Studielink + Osiris; en az iki alanda ≥6 AKTS (CBS, uzaktan algılama, programlama); İngilizce puanı Belirtilmemiş - sayfayı kontrol edin; APS gerekmez",
    "url": "https://www.wur.nl/en/education-programmes/master/msc-programmes/msc-geo-information-science/application-and-admission.htm",
-   "son_kontrol": "2026-11-19"
+   "son_kontrol": "2026-11-20"
   },
   {
    "id": "uu-gima",
@@ -338,12 +338,12 @@
    "sehir": "Berlin",
    "kategori": "Management",
    "dil": "İngilizce",
-   "basvuru_donemi": "Eylül 2027 başlangıç; turlar: 31 Ekim 2026 (geçti), 15 Aralık 2026, 31 Ocak 2027 (erken turlarda daha yüksek burs); kayan değerlendirme",
-   "son_tarih": null,
+   "basvuru_donemi": "Eylül 2027 başlangıç; sıradaki tur 15 Aralık 2026, sonra 31 Ocak 2027 (erken turlarda daha yüksek burs); kayan değerlendirme",
+   "son_tarih": "2026-12-15",
    "harc": "Öğrenim ücreti Belirtilmemiş - sayfayı kontrol edin (özel okul)",
    "belgeler": "Güçlü sayısal beceri kanıtı veya GMAT/GRE (ESMT Business Admissions Test de kabul ediliyor), İngilizce belgesi; APS gerekmez",
    "url": "https://esmt.berlin/degrees/master-programs/master-global-management/admissions",
-   "son_kontrol": "2026-11-19"
+   "son_kontrol": "2026-11-20"
   },
   {
    "id": "fs-mim",
@@ -434,6 +434,36 @@
    "belgeler": "İngilizce yeterlik belgesi (IELTS/TOEFL; asgari puanlar resmi sayfada), lisans diploması ve transkript; APS gerekmez (Hollanda)",
    "url": "https://www.rug.nl/masters/technology-and-operations-management/",
    "son_kontrol": "2026-11-19"
+  },
+  {
+   "id": "whu-mim",
+   "universite": "WHU – Otto Beisheim School of Management (özel)",
+   "program": "MSc in Management (Master in Management)",
+   "ulke": "Almanya",
+   "sehir": "Vallendar / Düsseldorf",
+   "kategori": "Management",
+   "dil": "İngilizce",
+   "basvuru_donemi": "Eylül 2027 başlangıç: vize gerektiren adaylar için 30 Nisan 2027, AB/vizesiz adaylar için 31 Mayıs 2027 (üçüncü taraf kaynaklar – resmi sayfadan teyit edin)",
+   "son_tarih": "2027-04-30",
+   "harc": "Toplam ~40.400 € (120 AKTS yolu, üçüncü taraf) – resmi sayfayı kontrol edin",
+   "belgeler": "GMAT (min. ~555) veya GRE / GTEBS, İngilizce belgesi; APS Türkiye için gerekmez",
+   "url": "https://www.mimineurope.com/programs/whu-otto-beisheim/deadlines",
+   "son_kontrol": "2026-11-20"
+  },
+  {
+   "id": "stuttgart-ggi-eng",
+   "universite": "Universität Stuttgart",
+   "program": "M.Sc. Geodesy and Geoinformatics Engineering",
+   "ulke": "Almanya",
+   "sehir": "Stuttgart",
+   "kategori": "Geomatik",
+   "dil": "Almanca/İngilizce – sayfayı kontrol edin",
+   "basvuru_donemi": "Kış veya yaz döneminde başlanabilir. DAAD: AB başvuruları 1 Aralık 2026 – 15 Ocak 2027 ve 15 Mayıs – 15 Temmuz 2027 (WS 2027/28). AB dışı tarih Belirtilmemiş - sayfayı kontrol edin",
+   "son_tarih": null,
+   "harc": "AB dışı: 1.500 €/dönem (Baden-Württemberg) + dönem katkı payı",
+   "belgeler": "Lisans diploması, dil belgesi; başvuru uni-assist veya üniversite portalı üzerinden; APS gerekmez",
+   "url": "https://www.uni-stuttgart.de/en/study/study-programs/Geodesy-and-Geoinformatics-Engineering-M.Sc.",
+   "son_kontrol": "2026-11-20"
   }
  ]
 }
