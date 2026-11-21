@@ -113,12 +113,12 @@
    "sehir": "Hannover",
    "kategori": "Geomatik",
    "dil": "Büyük ölçüde İngilizce",
-   "basvuru_donemi": "AB dışı: SS 2027 için 30 Kasım 2026, WS 2027/28 için 31 Mayıs 2027 (DAAD); uni-assist VPD gerekli",
+   "basvuru_donemi": "AB dışı: SS 2027 için 15 Ekim – 30 Kasım 2026 (Studieren in Niedersachsen), WS 2027/28 için 31 Mayıs 2027; uni-assist VPD gerekli",
    "son_tarih": "2026-11-30",
    "harc": "Öğrenim ücreti yok (Aşağı Saksonya); dönem katkı payı – tutar belirtilmemiş",
-   "belgeler": "uni-assist VPD zorunlu, dil belgesi (puan belirtilmemiş), APS gerekmez",
+   "belgeler": "uni-assist VPD zorunlu, AB dışı için Almanca C1 veya İngilizce C1 (üçüncü taraf: Expatrio), jeodezi/geoinformatik veya yakın alanda lisans, APS gerekmez",
    "url": "https://www.uni-hannover.de/en/studium/studienangebot/info/studiengang/detail/geodesy-and-geoinformatics/",
-   "son_kontrol": "2026-11-20"
+   "son_kontrol": "2026-11-21"
   },
   {
    "id": "tuberlin-geodesy-geoinformation",
@@ -464,6 +464,36 @@
    "belgeler": "Lisans diploması, dil belgesi; başvuru uni-assist veya üniversite portalı üzerinden; APS gerekmez",
    "url": "https://www.uni-stuttgart.de/en/study/study-programs/Geodesy-and-Geoinformatics-Engineering-M.Sc.",
    "son_kontrol": "2026-11-20"
+  },
+  {
+   "id": "hcu-geodesy-geoinformatics",
+   "universite": "HafenCity Universität Hamburg (HCU)",
+   "program": "M.Sc. Geodesy and Geoinformatics (Hidrografi uzmanlığı dahil)",
+   "ulke": "Almanya",
+   "sehir": "Hamburg",
+   "kategori": "Geomatik",
+   "dil": "İngilizce / Almanca (uzmanlığa göre – sayfayı kontrol edin)",
+   "basvuru_donemi": "WS 2027/28: AB dışı için 15 Temmuz (üçüncü taraf: My German University; yıl teyit edilemedi). Son tarih önceki diplomanın alındığı ülkeye göre değişiyor – HCU sayfasından teyit edin",
+   "son_tarih": null,
+   "harc": "Öğrenim ücreti yok (Hamburg devlet üniversitesi); dönem katkı payı – tutar belirtilmemiş",
+   "belgeler": "HCU genel ve programa özel kabul yönetmeliği (BZO-MSc-Geo-24) şartları, başvuru kontrol listesi; dil puanı Belirtilmemiş - sayfayı kontrol edin",
+   "url": "https://www.hcu-hamburg.de/en/master/geo",
+   "son_kontrol": "2026-11-21"
+  },
+  {
+   "id": "maastricht-ib-strategy-innovation",
+   "universite": "Maastricht University (SBE)",
+   "program": "MSc International Business – Strategy and Innovation",
+   "ulke": "Hollanda",
+   "sehir": "Maastricht",
+   "kategori": "Management",
+   "dil": "İngilizce",
+   "basvuru_donemi": "Şubat 2027 başlangıcı: AB dışı son tarih 1 Aralık 2026; Eylül 2027 son tarihi henüz yayımlanmadı (önceki döngü: AB dışı 1 Mayıs)",
+   "son_tarih": "2026-12-01",
+   "harc": "AB dışı (kurumsal): 21.500 €/yıl (2026/27); AB: 2.694 €",
+   "belgeler": "İşletme/ekonomi altyapısı, İngilizce yeterlik belgesi (IELTS/TOEFL – puan için kabul şartları PDF'ine bakın), GMAT/GRE durumu için sayfayı kontrol edin, APS gerekmez",
+   "url": "https://www.maastrichtuniversity.nl/education/master/programmes/international-business-strategy-and-innovation/admission-requirements",
+   "son_kontrol": "2026-11-21"
   }
  ]
 }
