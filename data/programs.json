@@ -118,7 +118,7 @@
    "harc": "Öğrenim ücreti yok (Aşağı Saksonya); dönem katkı payı – tutar belirtilmemiş",
    "belgeler": "uni-assist VPD zorunlu, AB dışı için Almanca C1 veya İngilizce C1 (üçüncü taraf: Expatrio), jeodezi/geoinformatik veya yakın alanda lisans, APS gerekmez",
    "url": "https://www.uni-hannover.de/en/studium/studienangebot/info/studiengang/detail/geodesy-and-geoinformatics/",
-   "son_kontrol": "2026-11-21"
+   "son_kontrol": "2026-11-22"
   },
   {
    "id": "tuberlin-geodesy-geoinformation",
@@ -494,6 +494,21 @@
    "belgeler": "İşletme/ekonomi altyapısı, İngilizce yeterlik belgesi (IELTS/TOEFL – puan için kabul şartları PDF'ine bakın), GMAT/GRE durumu için sayfayı kontrol edin, APS gerekmez",
    "url": "https://www.maastrichtuniversity.nl/education/master/programmes/international-business-strategy-and-innovation/admission-requirements",
    "son_kontrol": "2026-11-21"
+  },
+  {
+   "id": "tuberlin-imes",
+   "universite": "Technische Universität Berlin (TU Berlin)",
+   "program": "M.Sc. Innovation Management, Entrepreneurship and Sustainability (IMES)",
+   "ulke": "Almanya",
+   "sehir": "Berlin",
+   "kategori": "Management",
+   "dil": "İngilizce (C1)",
+   "basvuru_donemi": "Yalnızca kış dönemi: başvurular 2 Nisan – 15 Mayıs (program sayfası); WS 2027/28 için tahmini son tarih 15 Mayıs 2027 – resmi sayfadan teyit edin. AB dışı başvurular uni-assist üzerinden",
+   "son_tarih": "2027-05-15",
+   "harc": "Öğrenim ücreti yok (devlet üniversitesi); dönem katkı payı – tutar belirtilmemiş",
+   "belgeler": "İngilizce C1 belgesi, lisans diploması ve imzalı başvuru formu posta ile uni-assist'e süre içinde ulaşmalı (Mastersportal); GMAT/GRE: Belirtilmemiş - sayfayı kontrol edin; University of Twente ile ortak program",
+   "url": "https://www.imes.tu-berlin.de/",
+   "son_kontrol": "2026-11-22"
   }
  ]
 }

@@ -1,16 +1,6 @@
 {
  "events": [
   {
-   "id": "eur-master-open-day-2026-11",
-   "baslik": "Erasmus University Rotterdam Master Open Day (kampüs + online)",
-   "tarih": "2026-11-21",
-   "tarih_metin": "21 Kasım 2026, Cumartesi, 10:00–16:00 (CET) / 12:00–18:00 (TSİ)",
-   "yer": "Campus Woudestein, Rotterdam – bilgi oturumları online da izlenebiliyor",
-   "neden_onemli": "RSM'nin MSc Management of Innovation gibi yönetim programları tanıtılıyor. Hibrit olduğu için İstanbul'dan online katılıp kabul koşullarını ve burs fırsatlarını doğrudan sorabilirsiniz. Bugün!",
-   "url": "https://www.eur.nl/en/events/master-open-day-2026-11-21",
-   "kaynak": "Erasmus University Rotterdam"
-  },
-  {
    "id": "wur-masters-open-day-2026-11",
    "baslik": "Wageningen University & Research Master's Open Day",
    "tarih": "2026-11-26",
