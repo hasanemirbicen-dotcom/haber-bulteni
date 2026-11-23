@@ -118,7 +118,7 @@
    "harc": "Öğrenim ücreti yok (Aşağı Saksonya); dönem katkı payı – tutar belirtilmemiş",
    "belgeler": "uni-assist VPD zorunlu, AB dışı için Almanca C1 veya İngilizce C1 (üçüncü taraf: Expatrio), jeodezi/geoinformatik veya yakın alanda lisans, APS gerekmez",
    "url": "https://www.uni-hannover.de/en/studium/studienangebot/info/studiengang/detail/geodesy-and-geoinformatics/",
-   "son_kontrol": "2026-11-22"
+   "son_kontrol": "2026-11-23"
   },
   {
    "id": "tuberlin-geodesy-geoinformation",
@@ -283,7 +283,7 @@
    "harc": "AB dışı: şu an 4.000 €/dönem (resmi sayfa); TUM, AB dışı yeni öğrenciler için WS 2027/28'den itibaren yüksek lisans harcını 4.600 € veya 6.800 €/dönem'e çıkarıyor (şu an 4.000/6.000 €) → muhtemelen 4.600 €/dönem + katkı payı",
    "belgeler": "İngilizce belgesi, mühendislik/fen bileşeni içeren lisans, GMAT/GRE Belirtilmemiş - sayfayı kontrol edin; APS gerekmez; TUMonline",
    "url": "https://www.tum.de/en/studies/degree-programs/detail/management-and-technology-tum-bwl-master-of-science-msc",
-   "son_kontrol": "2026-11-19"
+   "son_kontrol": "2026-11-23"
   },
   {
    "id": "tum-management-munich",
@@ -509,6 +509,36 @@
    "belgeler": "İngilizce C1 belgesi, lisans diploması ve imzalı başvuru formu posta ile uni-assist'e süre içinde ulaşmalı (Mastersportal); GMAT/GRE: Belirtilmemiş - sayfayı kontrol edin; University of Twente ile ortak program",
    "url": "https://www.imes.tu-berlin.de/",
    "son_kontrol": "2026-11-22"
+  },
+  {
+   "id": "potsdam-rsiv",
+   "universite": "Universität Potsdam",
+   "program": "M.Sc. Remote Sensing, geoInformation and Visualization (RSIV)",
+   "ulke": "Almanya",
+   "sehir": "Potsdam (Golm kampüsü)",
+   "kategori": "Geomatik",
+   "dil": "İngilizce",
+   "basvuru_donemi": "Yalnızca kış dönemi girişi. Üçüncü taraf bir kaynak 1 Nisan – 15 Ağustos aralığını veriyor; WS 2027/28 için resmi tarih henüz doğrulanamadı, üniversitenin başvuru sayfasından teyit edin. Yerlerin %25'i uluslararası adaylara ayrılmış.",
+   "son_tarih": null,
+   "harc": "Harç yok (listeleme sitelerine göre); yalnızca dönem katkı payı ödeniyor",
+   "belgeler": "İngilizce yeterlik belgesi ve kabul yönetmeliğindeki ön koşullar (Zulassungsordnung). Uzaktan algılama, CBS ve görselleştirme odaklı 4 dönemlik program.",
+   "url": "https://uni-potsdam.de/en/studium/what-to-study/master/remote-sensing",
+   "son_kontrol": "2026-11-23"
+  },
+  {
+   "id": "tilburg-strategic-management",
+   "universite": "Tilburg University",
+   "program": "MSc Strategic Management (Consultancy / Entrepreneurship / Leadership iz seçenekleri)",
+   "ulke": "Hollanda",
+   "sehir": "Tilburg",
+   "kategori": "Management",
+   "dil": "İngilizce",
+   "basvuru_donemi": "Şubat 2027 girişi için AB dışı son tarih 1 Ekim 2026'ydı (kapandı). Eylül 2027 girişinin tarihi resmi sayfada açıklanacak. Consultancy izi yalnızca Eylül'de başlıyor.",
+   "son_tarih": "2026-10-01",
+   "harc": "AB dışı: 19.900 €/yıl (2026/27)",
+   "belgeler": "İngilizce yeterlik belgesi (IELTS/TOEFL), işletme alanında ön koşul dersleri. FUNED bursu (10.800 €, son tarih 1 Şubat 2027).",
+   "url": "https://www.tilburguniversity.edu/education/masters-programs/strategic-management",
+   "son_kontrol": "2026-11-23"
   }
  ]
 }
