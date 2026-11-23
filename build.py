@@ -80,6 +80,11 @@ tr.closed td{color:var(--closed)}
 .badge.soon{background:var(--accent);color:#fff}
 .badge.closed{background:var(--chip);color:var(--closed)}
 footer{margin-top:40px;text-align:center;font:.9rem system-ui,sans-serif;color:var(--muted)}
+.staj .card{border-left:5px solid var(--alert-line)}
+.staj .card.wait{border-left-color:var(--line);opacity:.85}
+.staj .row{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:4px}
+.badge.new{background:#1e8e3e;color:#fff}.badge.wait{background:var(--chip);color:var(--muted)}
+.badge.open{background:var(--link);color:var(--bg)}
 ul.arch{list-style:none;padding:0}ul.arch li{padding:8px 0;border-bottom:1px solid var(--line)}
 """
 
@@ -99,6 +104,52 @@ def page(title, body):
 <title>{e(title)}</title><style>{CSS}</style></head>
 <body><div class="wrap">{body}</div></body></html>
 """
+
+
+def render_internships(today):
+    data = load(os.path.join(ROOT, "data/internships.json"), {"internships": []})
+    iso = today.isoformat()
+    items = [x for x in data.get("internships", [])
+             if x.get("durum") != "Kapandı" and not (x.get("son_tarih") and x["son_tarih"] < iso)]
+
+    def key(x):
+        acik = x.get("durum") == "Açık"
+        return (0 if acik else 1, x.get("son_tarih") or "9999", 0 if x.get("uygunluk") == "Yüksek" else 1)
+    items.sort(key=key)
+
+    son = data.get("son_tarama")
+    meta = f"Son tarama: {e(tr_date(date.fromisoformat(son)))} · " if son else ""
+    out = ["""<section class="staj"><h2>🏗️ Staj İlanları – İnşaat Mühendisliği</h2>
+<p class="info">""" + meta + """LinkedIn, Kariyer.net, Youthall ve şirket sayfalarından iki CV'ne (Construction Management /
+Construction Materials) göre 3 günde bir seçilir. Başvurmadan önce ilanın hâlâ açık olduğunu kaynaktan teyit et.</p>"""]
+    if not items:
+        out.append("<p>Şu an listede uygun açık staj ilanı yok.</p></section>")
+        return "\n".join(out)
+    out.append('<div class="grid">')
+    for x in items:
+        acik = x.get("durum") == "Açık"
+        badges = []
+        if x.get("eklendi") and (today - date.fromisoformat(x["eklendi"])).days <= 3:
+            badges.append('<span class="badge new">YENİ</span>')
+        if x.get("son_tarih"):
+            kalan = (date.fromisoformat(x["son_tarih"]) - today).days
+            d = tr_date(date.fromisoformat(x["son_tarih"]), False)
+            cls = "soon" if kalan <= 14 else "open"
+            badges.append(f'<span class="badge {cls}">Son başvuru: {e(d)} · {kalan} gün</span>')
+        elif acik:
+            badges.append('<span class="badge open">Açık · son tarih belirtilmemiş</span>')
+        if not acik:
+            badges.append(f'<span class="badge wait">{e(x.get("durum"))}</span>')
+        bits = [b for b in (x.get("sehir"), x.get("tur")) if b]
+        out.append(f"""<article class="card{'' if acik else ' wait'}"><div class="row"><span class="tag">{e(x.get('cv'))}</span>
+<span class="tag">Uygunluk: {e(x.get('uygunluk'))}</span></div>
+<h3>{e(x.get('baslik'))}</h3><div class="src"><b>{e(x.get('sirket'))}</b> · {' · '.join(e(b) for b in bits)}</div>
+<div class="row" style="margin-top:6px">{''.join(badges)}</div>
+<p><b>Neden sana uygun:</b> {e(x.get('neden'))}</p>
+<p class="src"><b>Aranan:</b> {e(x.get('gereksinimler'))}</p>
+<div class="src">Kaynak: <a href="{e(x.get('url'))}" target="_blank" rel="noopener">{e(x.get('kaynak'))} →</a></div></article>""")
+    out.append("</div></section>")
+    return "\n".join(out)
 
 
 def build(daily_path):
@@ -133,6 +184,9 @@ def build(daily_path):
     else:
         out.append("<p>Şu an kayıtlı yaklaşan etkinlik yok.</p>")
     out.append("</section>")
+
+    # Staj İlanları (data/internships.json, 3 günde bir ayrı görevle güncellenir)
+    out.append(render_internships(today))
 
     # Dünün Özeti
     out.append(f"<section><h2>📰 Dünün Özeti <span class='info'>({e(tr_date(date.fromordinal(today.toordinal()-1)))})</span></h2>")
