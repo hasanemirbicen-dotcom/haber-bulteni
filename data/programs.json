@@ -158,12 +158,12 @@
    "sehir": "Münster",
    "kategori": "Geomatik",
    "dil": "İngilizce",
-   "basvuru_donemi": "SS 2027 (Nisan başlangıç): AB dışı için resmi ifgi sayfasındaki örüntüye göre 30 Kasım 2026 (AB: 15 Ocak); WS 2027/28: AB dışı 31 Mayıs 2027. Kaydın açık olduğunu ifgi sayfasından teyit edin",
+   "basvuru_donemi": "Resmi başvuru sayfasına göre belgeler 15 Ocak (yaz dönemi) veya 15 Temmuz (kış dönemi) tarihine kadar yüklenebiliyor. Üçüncü taraf kaynaklar AB dışı için daha erken bir tarih (30 Kasım) veriyor; önlem olarak 30 Kasım baz alındı, ifgi sayfasından teyit edin",
    "son_tarih": "2026-11-30",
    "harc": "Öğrenim ücreti yok (NRW); başvuru ücretsiz; dönem katkı payı – tutar belirtilmemiş",
    "belgeler": "Geoinformatik veya eşdeğer lisans, İngilizce belgesi (üçüncü taraf: TOEFL 550 PBT veya eşdeğeri), ifgi çevrimiçi başvuru, APS gerekmez",
    "url": "https://ifgi.uni-muenster.de/masterapplication",
-   "son_kontrol": "2026-11-20"
+   "son_kontrol": "2026-11-24"
   },
   {
    "id": "hft-photogrammetry-geoinformatics",
@@ -248,12 +248,12 @@
    "sehir": "Wageningen",
    "kategori": "Geomatik",
    "dil": "İngilizce",
-   "basvuru_donemi": "Eylül 2027 başvuruları henüz açılmadı (şu an yalnızca Şubat 2027 için başvuru alınıyor). Burs (Excellence vb.) değerlendirmesi için eksiksiz başvuru 1 Aralık 2026'dan önce. Önceki döngü: AB dışı Studielink 15 Nisan",
+   "basvuru_donemi": "Eylül 2027 başvuruları henüz açılmadı. 1 Aralık 2026: burs değerlendirmesi için eksiksiz başvuru tarihi; Şubat 2027 başlayan AB dışı öğrenciler için ödeme ve belge yükleme son günü de 1 Aralık. Önceki döngüde AB dışı başvuru son tarihi 15 Nisan'dı (StudyinNL)",
    "son_tarih": "2026-12-01",
    "harc": "AB dışı: 2026/27 için 21.900 €/yıl (StudyinNL); 2027/28 Belirtilmemiş - sayfayı kontrol edin",
    "belgeler": "Studielink + Osiris; en az iki alanda ≥6 AKTS (CBS, uzaktan algılama, programlama); İngilizce puanı Belirtilmemiş - sayfayı kontrol edin; APS gerekmez",
    "url": "https://www.wur.nl/en/education-programmes/master/msc-programmes/msc-geo-information-science/application-and-admission.htm",
-   "son_kontrol": "2026-11-20"
+   "son_kontrol": "2026-11-24"
   },
   {
    "id": "uu-gima",
@@ -533,12 +533,12 @@
    "sehir": "Tilburg",
    "kategori": "Management",
    "dil": "İngilizce",
-   "basvuru_donemi": "Şubat 2027 girişi için AB dışı son tarih 1 Ekim 2026'ydı (kapandı). Eylül 2027 girişinin tarihi resmi sayfada açıklanacak. Consultancy izi yalnızca Eylül'de başlıyor.",
-   "son_tarih": "2026-10-01",
+   "basvuru_donemi": "Şubat 2027 girişi için AB dışı son tarih 1 Ekim 2026'ydı (kapandı). Eylül 2027 girişi için Tilburg'un genel kuralı: AB dışı 1 Nisan 2027 (Ağustos sonu başlangıç). Program sayfasından teyit edin; Consultancy izi yalnızca Eylül'de başlıyor",
+   "son_tarih": "2027-04-01",
    "harc": "AB dışı: 19.900 €/yıl (2026/27)",
    "belgeler": "İngilizce yeterlik belgesi (IELTS/TOEFL), işletme alanında ön koşul dersleri. FUNED bursu (10.800 €, son tarih 1 Şubat 2027).",
    "url": "https://www.tilburguniversity.edu/education/masters-programs/strategic-management",
-   "son_kontrol": "2026-11-23"
+   "son_kontrol": "2026-11-24"
   }
  ]
 }
