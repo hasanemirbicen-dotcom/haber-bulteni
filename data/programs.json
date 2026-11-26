@@ -83,12 +83,12 @@
    "sehir": "Karlsruhe",
    "kategori": "Geomatik",
    "dil": "İngilizce",
-   "basvuru_donemi": "Başvurular 1 Kasım'da açılır; WS 2027/28 için son tarih 15 Haziran 2027 (SS 2027 için 30 Kasım 2026); AB dışı için de aynı tarih",
+   "basvuru_donemi": "WS 2027/28 için son tarih 15 Haziran 2027 (KIT SLE / DAAD). KIT SSS sayfası bu program için başvuruların 1 Nisan'dan itibaren yapılabildiğini belirtiyor; SS 2027 dönemi (30 Kasım 2026) kapanmak üzere. Son tarihler kesin, erken başvur.",
    "son_tarih": "2027-06-15",
    "harc": "AB dışı: 1.500 €/dönem (Baden-Württemberg; DAAD 2026/27'de 1.701 € toplam gösteriyor) + ~200 € katkı payı",
    "belgeler": "İngilizce yeterlik belgesi (puan belirtilmemiş), KIT çevrimiçi portalı, APS gerekmez",
    "url": "https://www.sle.kit.edu/english/vorstudium/master-remote-sensing-geoinformatics.php",
-   "son_kontrol": "2026-11-19"
+   "son_kontrol": "2026-11-26"
   },
   {
    "id": "bonn-geodetic-engineering",
@@ -539,6 +539,21 @@
    "belgeler": "İngilizce yeterlik belgesi (IELTS/TOEFL), işletme alanında ön koşul dersleri. FUNED bursu (10.800 €, son tarih 1 Şubat 2027).",
    "url": "https://www.tilburguniversity.edu/education/masters-programs/strategic-management",
    "son_kontrol": "2026-11-24"
+  },
+  {
+   "id": "hsnb-geodesy-geoinformatics",
+   "universite": "Hochschule Neubrandenburg (Uygulamalı Bilimler Üniversitesi)",
+   "program": "M.Eng. Geodesy and Geoinformatics",
+   "ulke": "Almanya",
+   "sehir": "Neubrandenburg",
+   "kategori": "Geomatik",
+   "dil": "İngilizce",
+   "basvuru_donemi": "Yılda tek başvuru dönemi; myguide/DAAD: Nisan – 31 Mayıs 2027 (yaz döneminde hazırlık dönemi dahil). Üniversite belgelerin son tarihten ~6 hafta önce gönderilmesini öneriyor. Tarihi resmi sayfadan teyit et.",
+   "son_tarih": "2027-05-31",
+   "harc": "Devlet üniversitesi – harç ücreti yok (dönem katkı payı ayrıca; tutarı sayfadan teyit edin)",
+   "belgeler": "İngilizce yeterlik belgesi (puan için başvuru sayfasına bakın), uni-assist üzerinden başvuru, geodezi/harita/jeoloji/coğrafya/geoinformatik alanında 210 AKTS'lik lisans; gerekirse hazırlık dönemi",
+   "url": "https://www.hs-nb.de/en/courses-of-study/postgraduate-courses/geodesy-and-geoinformatics-meng/application/",
+   "son_kontrol": "2026-11-26"
   }
  ]
 }
