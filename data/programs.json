@@ -128,12 +128,12 @@
    "sehir": "Berlin",
    "kategori": "Geomatik",
    "dil": "İngilizce",
-   "basvuru_donemi": "WS 2027/28 için resmi tarih doğrulanamadı (üçüncü taraf: 1 Haziran – 31 Ağustos) – Belirtilmemiş - sayfayı kontrol edin",
+   "basvuru_donemi": "WS 2027/28 için resmi tarih doğrulanamadı; üçüncü taraf kaynaklar (MyGuide, MyGermanUniversity): 1 Haziran – 31 Ağustos (AB dışı). Expatrio 15 Mayıs diyor – resmi sayfadan (tu.berlin/go167) teyit edin",
    "son_tarih": null,
-   "harc": "Öğrenim ücreti yok (üçüncü taraf kaynaklar); dönem katkı payı – Belirtilmemiş - sayfayı kontrol edin",
+   "harc": "Öğrenim ücreti yok; dönem katkı payı yaklaşık 300 € (DAAD)",
    "belgeler": "TOEFL ≥213 (bilgisayar tabanlı) veya eşdeğeri; uluslararası başvurular uni-assist üzerinden; APS gerekmez",
    "url": "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/geodesy-and-geoinformation-science-m-sc",
-   "son_kontrol": "2026-11-19"
+   "son_kontrol": "2026-11-28"
   },
   {
    "id": "tudresden-geodaesie",
@@ -554,6 +554,21 @@
    "belgeler": "İngilizce yeterlik belgesi (puan için başvuru sayfasına bakın), uni-assist üzerinden başvuru, geodezi/harita/jeoloji/coğrafya/geoinformatik alanında 210 AKTS'lik lisans; gerekirse hazırlık dönemi",
    "url": "https://www.hs-nb.de/en/courses-of-study/postgraduate-courses/geodesy-and-geoinformatics-meng/application/",
    "son_kontrol": "2026-11-26"
+  },
+  {
+   "id": "hka-geomatics",
+   "universite": "Hochschule Karlsruhe – Technik und Wirtschaft (HKA, Uygulamalı Bilimler Üniversitesi)",
+   "program": "M.Sc. Geomatics",
+   "ulke": "Almanya",
+   "sehir": "Karlsruhe",
+   "kategori": "Geomatik",
+   "dil": "Almanca (ağırlıklı) – sayfadan teyit edin",
+   "basvuru_donemi": "Resmi tarih doğrulanamadı; Expatrio yaz dönemi için 15 Ocak veriyor, genel HKA takvimi kış için 15 Temmuz – h-ka.de üzerinden teyit edin",
+   "son_tarih": null,
+   "harc": "Baden-Württemberg: AB dışı öğrenciler için 1.500 €/dönem + dönem katkı payı (eyalet kuralı) – sayfadan teyit edin",
+   "belgeler": "Geomatik/ölçme lisans diploması, dil yeterliği (Almanca), uni-assist/HKA portalı – Belirtilmemiş - sayfayı kontrol edin",
+   "url": "https://www.h-ka.de/bewerben-fuer-master/bewerben",
+   "son_kontrol": "2026-11-28"
   }
  ]
 }
