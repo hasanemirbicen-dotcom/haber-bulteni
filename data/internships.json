@@ -1,5 +1,5 @@
 {
- "son_tarama": "2026-11-24",
+ "son_tarama": "2026-11-28",
  "internships": [
   {
    "id": "iskur-ulusal-staj-2027",
@@ -16,7 +16,7 @@
    "kaynak": "Milli Gazete / İŞKUR",
    "url": "https://ulusalstajprogrami.iskur.gov.tr",
    "eklendi": "2026-11-24",
-   "dogrulandi": "2026-11-24"
+   "dogrulandi": "2026-11-28"
   },
   {
    "id": "cimsa-global-build-on-plus-2027",
@@ -33,7 +33,7 @@
    "kaynak": "Youthall",
    "url": "https://www.youthall.com/en/cimsa/global-build-on-plus-internship-program_16/",
    "eklendi": "2026-11-24",
-   "dogrulandi": "2026-11-24"
+   "dogrulandi": "2026-11-28"
   },
   {
    "id": "tylin-turkey-tunneling-intern",
@@ -50,7 +50,7 @@
    "kaynak": "LinkedIn (Clera üzerinden)",
    "url": "https://www.getclera.com/jobs/global-infrastructure/tunneling-engineer-internship",
    "eklendi": "2026-11-24",
-   "dogrulandi": "2026-11-24"
+   "dogrulandi": "2026-11-28"
   },
   {
    "id": "alumil-nextgen-istanbul",
@@ -67,7 +67,7 @@
    "kaynak": "Workable / Glassdoor",
    "url": "https://jobs.workable.com/view/ecb6f7a8-2dd2-4a1b-81f4-2e832a1c0ff8",
    "eklendi": "2026-11-24",
-   "dogrulandi": "2026-11-24"
+   "dogrulandi": "2026-11-28"
   },
   {
    "id": "cimko-gencimko-yaz-2027",
@@ -84,7 +84,7 @@
    "kaynak": "Youthall",
    "url": "https://www.youthall.com/tr/yetenek-programlari/cimko-gencimko-yaz-staj-programi",
    "eklendi": "2026-11-24",
-   "dogrulandi": "2026-11-24"
+   "dogrulandi": "2026-11-28"
   },
   {
    "id": "akcansa-uzun-donem-insaat",
@@ -101,7 +101,41 @@
    "kaynak": "Youthall",
    "url": "https://www.youthall.com/tr/Akcansa",
    "eklendi": "2026-11-24",
-   "dogrulandi": "2026-11-24"
+   "dogrulandi": "2026-11-28"
+  },
+  {
+   "id": "yapi-merkezi-digital-baret",
+   "baslik": "Digital Baret – Online Staj Programı",
+   "sirket": "Yapı Merkezi",
+   "sehir": "İstanbul, online",
+   "tur": "Online staj programı (webinar ve eğitimler)",
+   "cv": "Construction Management",
+   "uygunluk": "Orta",
+   "neden": "Raylı sistem ve altyapı projeleriyle bilinen büyük bir müteahhidin staj programı; şantiye ve proje yönetimi CV'ne değer katar, online olduğu için derslerle birlikte yürütülebilir.",
+   "gereksinimler": "3. ve 4. sınıf öğrencisi. Başvuru dönemi Temmuz–Eylül.",
+   "son_tarih": null,
+   "durum": "Henüz açılmadı",
+   "kaynak": "Youthall",
+   "url": "https://www.youthall.com/tr/talent-programs/yapi-merkezi-digital-baret",
+   "eklendi": "2026-11-28",
+   "dogrulandi": "2026-11-28"
+  },
+  {
+   "id": "cimsa-build-on-yaz-2027",
+   "baslik": "Build-On Yaz Staj Programı",
+   "sirket": "Çimsa",
+   "sehir": "İstanbul (genel merkez), Mersin, Eskişehir, Kayseri, Niğde, Afyonkarahisar",
+   "tur": "Yaz stajı 2027",
+   "cv": "Construction Materials",
+   "uygunluk": "Orta",
+   "neden": "Çimento üreticisinin Ar-Ge, kalite ve sürdürülebilirlik ekiplerinde yaz stajı; LC3 düşük karbonlu çimento tezinle doğrudan ilişkili. İnşaat mühendisliği adıyla anılmıyor, mühendislik öğrencilerine açık.",
+   "gereksinimler": "1.–4. sınıf mühendislik veya İİBF öğrencisi, zorunlu staj, iyi İngilizce, MS Office. Başvuru dönemi Mayıs.",
+   "son_tarih": null,
+   "durum": "Henüz açılmadı",
+   "kaynak": "Youthall",
+   "url": "https://www.youthall.com/en/talent-programs/cimsa-build-on-yaz-staj-programi",
+   "eklendi": "2026-11-28",
+   "dogrulandi": "2026-11-28"
   }
  ]
 }
